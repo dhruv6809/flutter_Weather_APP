@@ -1,6 +1,7 @@
 # Weather App
-This app fetches real-time weather data using Flutter.
+
 This project is a starting point for a Flutter application.
+This app fetches real-time weather data using Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
